@@ -47,4 +47,8 @@ The `donut()` function takes the following arguments:
 This module is licensed under the MIT License. Click the [LICENSE](https://opensource.org/licenses/MIT) for more details.
 
 &copy; 2023 Jazmine N
-
+<br>
+<br>
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=JZMN&label=Visits&color=3&icon=3&pretty=true" />
+</a>
