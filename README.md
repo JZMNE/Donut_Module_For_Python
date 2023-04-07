@@ -32,7 +32,7 @@ The `donut()` function takes the following arguments:
 :warning: Note that the donut() function is not suitable for use with data that has more than three categories.
 
 # Visualization
-![SampleViz]()
+![SampleViz](https://github.com/JZMNE/Donut_Module_For_Python/blob/main/img/donut.png)
 
 # License 
 This module is licensed under the MIT License. Click the [LICENSE](https://opensource.org/licenses/MIT) for more details.
