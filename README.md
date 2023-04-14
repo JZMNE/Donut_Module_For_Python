@@ -2,21 +2,21 @@
 
 This module provides a simple function to create a well-designed donut chart in Python. The function uses Plotly under the hood to create a chart that provides a quick and easy way to view the proportionality of data features.
 
-# Overview
+# Overview :zap:
 A donut chart is a type of chart that displays data as a ring-shaped chart with a hole in the middle, similar to a pie chart. Some people find donut charts more visually appealing than pie charts (the ["Forbidden Chart"](https://www.entrepreneur.com/growing-a-business/people-please-stop-using-pie-charts/239932)) as they can provide a clearer view of the data being displayed. However, it's important to use donut charts carefully and avoid using too many segments, as this can make the chart difficult to read and interpret.
 
 > As someone who loves donut charts, it's crucial to create a well-organized, visually appealing donut chart that presents the data in an easily understandable way. For instance, if you want to quickly grasp the proportion of different categories within a feature, you can simply use the module. 
 
-# Tools
+# Tools :zap:
 - [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat&logo=jupyter)](https://jupyter.org/)
 - [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 - [![Plotly](https://img.shields.io/badge/-Plotly-4E84C4?style=flat&logo=plotly&logoColor=white)](https://plotly.com/)
 
-# Data 
+# Data :zap:
 Data originally published in:
 Gorman KB, Williams TD, Fraser WR (2014). Ecological sexual dimorphism and environmental variability within a community of Antarctic penguins (genus Pygoscelis). PLoS ONE 9(3):e90081. Click [here](https://doi.org/10.1371/journal.pone.0090081) to view.
 
-# Usage :doughnut:
+# Usage :zap:
 To use the module
  - Download the [`Donut.py`]() and save it in the same folder.
  - Import the `donutchart()` function and provide the necessary arguments.
@@ -42,12 +42,13 @@ The `donut()` function takes the following arguments:
 
 > :warning: Note that the donut() function is not suitable for use with data that has more than three categories.
 
-# Visualization
+# Visualization :zap:
 ![SampleViz](https://github.com/JZMNE/Donut_Module_For_Python/blob/main/img/donut.png)
 
-Click [Data visualization](https://www.youtube.com/watch?v=1ZBD9mI8siw) to watch the video.
+# Video Walk Through :zap:
+[![DonutChart Function](https://img.youtube.com/vi/1ZBD9mI8siw/0.jpg)](https://www.youtube.com/watch?v=1ZBD9mI8siw)
 
-# License 
+# License :zap:
 This module is licensed under the MIT License. Click the [LICENSE](https://opensource.org/licenses/MIT) for more details.
 
 &copy; 2023 Jazmine N
