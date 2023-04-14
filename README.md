@@ -44,6 +44,7 @@ The `donut()` function takes the following arguments:
 
 # Visualization
 ![SampleViz](https://github.com/JZMNE/Donut_Module_For_Python/blob/main/img/donut.png)
+
 Click [Data visualization](https://www.youtube.com/watch?v=1ZBD9mI8siw) to watch the video.
 
 # License 
