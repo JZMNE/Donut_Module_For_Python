@@ -17,7 +17,9 @@ Data originally published in:
 Gorman KB, Williams TD, Fraser WR (2014). Ecological sexual dimorphism and environmental variability within a community of Antarctic penguins (genus Pygoscelis). PLoS ONE 9(3):e90081. Click [here](https://doi.org/10.1371/journal.pone.0090081) to view.
 
 # Usage :doughnut:
-To use the module, simply import the donut() function and provide the necessary arguments:
+To use the module
+ - Download the [`Donut.py`]() and save it in the same folder.
+ - Import the `donutchart()` function and provide the necessary arguments.
 
 ``` python
 import pandas as pd
@@ -38,7 +40,7 @@ The `donut()` function takes the following arguments:
 - `hole`: The size of the hole in the middle of the chart. This ranges from 0 to 1 and defaults to 0.5.
 - `legend`: Whether to include a legend. Defaults to True.
 
-:warning: Note that the donut() function is not suitable for use with data that has more than three categories.
+> :warning: Note that the donut() function is not suitable for use with data that has more than three categories.
 
 # Visualization
 ![SampleViz](https://github.com/JZMNE/Donut_Module_For_Python/blob/main/img/donut.png)
